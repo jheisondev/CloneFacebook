@@ -1,0 +1,12 @@
+{
+  "name": "cloneFacebook",
+  "displayName": "cloneFacebook",
+  "expo": {
+    "name": "cloneFacebook",
+    "slug": "cloneFacebook",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
